@@ -1,3 +1,12 @@
 {
-  
+    "status": true,
+    "responseCode": 200,
+    "message": "",
+    "data": {
+        "app_live": "true",
+        "AdMob_OpenApp": "ca-app-pub-3940256099942544/9257395921",
+        "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
+        "AdMob_Interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "AdMob_Native": "ca-app-pub-3940256099942544/2247696110",
+    }
 }
