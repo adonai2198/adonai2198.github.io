@@ -3,7 +3,7 @@
     "responseCode": 200,
     "message": "",
     "data": {
-        "app_live": "true",
+        "app_live": "false",
         "AdMob_OpenApp": "ca-app-pub-3940256099942544/9257395921",
         "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
         "AdMob_Interstitial": "ca-app-pub-3940256099942544/1033173712",
